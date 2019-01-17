@@ -4,3 +4,5 @@ public/*
 
 *.zip
 _*.*
+
+server/config.js
